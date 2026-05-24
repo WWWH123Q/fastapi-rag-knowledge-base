@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+python-multipart
+openai
+sentence-transformers
+pymilvus
+tavily-python
+ddgs
+pandas
+pypdf
+python-docx
+openpyxl
+xlrd
+requests
+rank-bm25
+jieba

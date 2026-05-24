@@ -1,0 +1,14 @@
+{"question":"我们实验室在华为杯里哪一年拿过一等奖？","expected_sources":["竞赛获奖记录"],"expected_chunk_keywords":["2023","华为杯","国家一等奖","沈澈","陆星野","夏清禾"],"min_chunk_keyword_hits":3,"expected_answer_keywords":["2023","国家一等奖","沈澈","陆星野","夏清禾"]}
+{"question":"华为杯相关的获奖学生有哪些？","expected_sources":["竞赛获奖记录"],"expected_chunk_keywords":["华为杯","林泽宇","赵一航","刘思雨","孙启航","孟雨晴","唐子昂","沈澈","陆星野","夏清禾","齐舟","夏渺","江予白"],"min_chunk_keyword_hits":4,"expected_answer_keywords":["林泽宇","赵一航","刘思雨","孙启航","孟雨晴","唐子昂","沈澈","陆星野","夏清禾","齐舟","夏渺","江予白"]}
+{"question":"有没有和降水临近预报有关的论文？","expected_sources":["学生论文成果汇总"],"expected_chunk_keywords":["降水临近预报","论文","Multi-scale Attention Fusion","夏渺"],"min_chunk_keyword_hits":2,"expected_answer_keywords":["降水临近预报","论文","夏渺"]}
+{"question":"哪些成果和 RAG 或 Agent 有关？","expected_sources":["学生论文成果汇总","竞赛获奖记录","SCI期刊投稿经验"],"expected_chunk_keywords":["RAG","Agent","知识库"],"min_chunk_keyword_hits":2,"expected_answer_keywords":["RAG","知识库"]}
+{"question":"GPU服务器使用时有什么注意事项？","expected_sources":["GPU服务器使用说明"],"expected_chunk_keywords":["GPU","服务器","使用","注意"],"min_chunk_keyword_hits":2,"expected_answer_keywords":["GPU","服务器"]}
+{"question":"如果服务器显存不够怎么办？","expected_sources":["GPU服务器使用说明"],"expected_chunk_keywords":["显存","GPU","服务器"],"min_chunk_keyword_hits":2,"expected_answer_keywords":["显存","GPU"]}
+{"question":"SCI投稿经验里有没有提到审稿周期？","expected_sources":["SCI期刊投稿经验"],"expected_chunk_keywords":["SCI","投稿","审稿"],"min_chunk_keyword_hits":2,"expected_answer_keywords":["SCI","投稿","审稿"]}
+{"question":"有哪些期刊适合投降水预测方向？","expected_sources":["SCI期刊投稿经验"],"expected_chunk_keywords":["期刊","降水预测","SCI"],"min_chunk_keyword_hits":2,"expected_answer_keywords":["期刊","降水预测"]}
+{"question":"实验室近几年有哪些和深度学习降水预测相关的成果？","expected_sources":["学生论文成果汇总","竞赛获奖记录"],"expected_chunk_keywords":["深度学习","降水","预测","论文","竞赛"],"min_chunk_keyword_hits":3,"expected_answer_keywords":["深度学习","降水","预测"]}
+{"question":"谁的论文和雷达回波有关？","expected_sources":["学生论文成果汇总"],"expected_chunk_keywords":["雷达回波","论文"],"min_chunk_keyword_hits":2,"expected_answer_keywords":["雷达回波","论文"]}
+{"question":"实验室有没有获得过互联网+比赛奖项？","expected_sources":["竞赛获奖记录"],"expected_chunk_keywords":["互联网+","创新创业","省级铜奖"],"min_chunk_keyword_hits":2,"expected_answer_keywords":["互联网+","省级铜奖"]}
+{"question":"实验室有没有关于校园低碳调度的成果？","expected_sources":["竞赛获奖记录","学生论文成果汇总"],"expected_chunk_keywords":["校园","低碳","调度"],"min_chunk_keyword_hits":2,"expected_answer_keywords":["校园","低碳","调度"]}
+{"question":"张三获得过华为杯一等奖吗？","expected_sources":["竞赛获奖记录"],"expected_chunk_keywords":["华为杯","国家一等奖"],"min_chunk_keyword_hits":2,"expected_answer_keywords":["资料中没有","没有找到","张三"]}
+{"question":"实验室有没有诺贝尔奖获奖记录？","expected_sources":["竞赛获奖记录","学生论文成果汇总"],"expected_chunk_keywords":["诺贝尔奖"],"min_chunk_keyword_hits":1,"expected_answer_keywords":["资料中没有","没有找到"]}
